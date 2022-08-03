@@ -1,2 +1,3 @@
-# hw-otus-reverse
-OTUS Reverse homework
+# OTUS RE Homework
+
+ 
